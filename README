@@ -14,3 +14,7 @@ Where:
  arg[3] is SLIC_m which is described in the paper as the the control in compactness of a superpixel. They use 10, but I found that tuning this parameter was most key in finding the best (most accurate) superpixels.
 
  	recommended (for Lenna.png) 40
+  
+Please note: this is my implementation of the SLIC superpixels algorithm I am not sure what their copyrights/patents/IP is on this algorithm or implementation. But please go check out their paper. It's an easy read and a really simple, but rad algorithm:
+
+http://www.kev-smith.com/papers/SLIC_Superpixels.pdf
