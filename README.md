@@ -1,5 +1,3 @@
-README
-
 To run project:
 
 slic.py Lenna.png 1000 40
