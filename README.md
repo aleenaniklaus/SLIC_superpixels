@@ -1,3 +1,6 @@
+##SLICsuperpixels
+Final project for course on computer vision. [SLIC superpixels paper] (http://www.kev-smith.com/papers/SLIC_Superpixels.pdf). I found this concept novel, notably for uses in medicine (specifically in medical imaging) but also artistic. Initially I hoped implementing the algorithm and instead of drawing lines indicating the different super pixels, using a Gaussian blur on the seperation lines would create an interesting effect. However, this experiment was underwhelming and excluded from this repository.
+
 To run project:
 
 slic.py Lenna.png 1000 40
